@@ -1,0 +1,4 @@
+David Gaffney, Brian Harlow
+Razor Statement
+12/5/18
+This product will use a temperature sensor and fingerprint sensor to input user fingerprint, where it will be validated by a collection of valid fingerprints. Then over the ESP, a notification will be sent to phone user, and whether the fingerprint is valid or not. Then the phone user will send over the ESP an unlock signal, where a servo motor will unlock the door. 
