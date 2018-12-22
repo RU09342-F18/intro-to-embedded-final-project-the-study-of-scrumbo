@@ -1,0 +1,3 @@
+# intro-to-embedded-final-project-the-study-of-scrumbo
+intro-to-embedded-final-project-the-study-of-scrumbo created by GitHub Classroom
+This project is a compilation of Arduino code, and C code. The fingerprint arduino code is used to create profiles, and then check new fingerprints for validity. The other arduino code is used to connect the ESP device to an MQTT server located at Rowan University. The C code is used to program the MSP device, which handles the logic for controlling the servo, using the fingerprint data, and sending data to the ESP. All code is commented and included in the repository.
